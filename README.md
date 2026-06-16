@@ -6,7 +6,7 @@ Tres Amigos
 
 ## Team Members
 - Emmanuel Kiptoo
-- Ian Mwenda Mutua
+- Mutua Ian Mwenda
 - Michael Ng'ang'a Ngugi
 
 ## Problem Statement
