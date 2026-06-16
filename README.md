@@ -74,7 +74,3 @@ Weighted F1 Score: 0.5305
 4. Reduce mobile money barriers in rural areas
 5. Invest in financial literacy programmes for low-income communities
 
-## Repository Structure
-- notebook: Jupyter notebook with full pipeline
-- visualisations: All 11 charts as PNG files
-- presentation: 7-slide PowerPoint presentation
